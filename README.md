@@ -1,12 +1,5 @@
 #FC Tank
-
-[![Build Status](https://travis-ci.org/bencao/fc_tank.png?branch=master)](https://travis-ci.org/bencao/fc_tank)
-
-a rewrite of classic FC game "90 Tank" using coffee script
-
-##Run the game
-visit [Project Page](http://blog.bencao.it/fc_tank/) to try this game.
-
+This fork is simply for me to strip down and learn the main engine code in order to make my own game.
 ##Contribute
 Dear guys, you're highly welcome to contribute to this project~
 
